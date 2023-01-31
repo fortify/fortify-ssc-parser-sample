@@ -1,0 +1,1 @@
+Sample data is included in the [sampleData](sampleData) directory. Additional sample data can be obtained using the original sample parser code; see https://github.com/fortify/sample-parser#generating-scan-with-fixed-or-random-data for instructions.
