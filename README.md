@@ -28,6 +28,7 @@ This project provides an alternative implementation for the Fortify SSC sample p
 
 <!-- START-INCLUDE:repo-resources.md -->
 
+* **Usage**: [USAGE.md](USAGE.md)
 * **Releases**: https://github.com/fortify/fortify-ssc-parser-sample/releases
     * _Development releases may be unstable or non-functional. The `*-thirdparty.zip` file is for informational purposes only and does not need to be downloaded._
 * **Sample input files**: [sampleData](sampleData)
