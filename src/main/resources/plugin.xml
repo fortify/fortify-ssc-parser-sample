@@ -6,7 +6,7 @@
         <name>Alternative sample parser plugin</name>
         <version><!--VERSION-->0.0<!--/VERSION--></version>
         <data-version>1</data-version>
-        <vendor name="Sample vendor" url="https://sample-parser-plugin.example.com/"/>
+        <vendor name="Open Text" url="https://opentext.com"/>
         <description>Alternative sample parser plugin.</description>
         <resources>
             <localization>
