@@ -7,6 +7,11 @@ on:
   schedule:
     - cron: '16 0 * * 5'
 
+permissions:
+  contents: read
+  actions: read
+  security-events: write
+
 jobs:
   fortify:
     uses: fortify/.github/.github/workflows/fortify-analysis.yml@main
